@@ -4,5 +4,5 @@ def to_seconds_conversor(time_unit, time):
     elif time_unit == 2:
         time *= 60
     else:
-        time_unit *= 3600
+        time *= 3600
     return time
