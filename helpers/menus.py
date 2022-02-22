@@ -15,7 +15,7 @@ def menu():
             return option
 
 
-def time_unit():
+def set_time_unit():
     while True:
         print('What measure of time do you need to take this action?')
         print('[1] Seconds')
